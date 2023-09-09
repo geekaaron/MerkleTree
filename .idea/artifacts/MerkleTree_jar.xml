@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MerkleTree:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MerkleTree_jar</output-path>
+    <root id="archive" name="MerkleTree.jar">
+      <element id="module-output" name="MerkleTree" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Maven/repository/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Maven/repository/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
